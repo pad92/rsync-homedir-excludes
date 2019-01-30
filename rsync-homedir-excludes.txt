@@ -41,6 +41,11 @@ _build
 # Ruby gems
 .rvm
 
+# Go
+
+.go/pkg
+.go/src
+
 # Add Game Folders here:
 
 /games
