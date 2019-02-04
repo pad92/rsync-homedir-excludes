@@ -16,6 +16,7 @@
 ###############################################
 
 .android
+.ansible/
 .AndroidStudio*/
 Android/Sdk
 .gradle
